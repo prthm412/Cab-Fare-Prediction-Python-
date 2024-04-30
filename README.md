@@ -1,4 +1,4 @@
-# Geographical-Information-System
+# Cab Fare Prediction
 
 Problem Set:
 You are a cab rental start-up company. You have successfully run the pilot project and now want to launch your cab service across the country.
